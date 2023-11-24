@@ -72,7 +72,7 @@ button {
     border-radius: 10px;
     gap: 20px;
     position: fixed;
-    left: -320px;
+    left: -319px;
     transition: left 1s linear;
     z-index: 4;
 }
