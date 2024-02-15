@@ -8,4 +8,4 @@
   <br>-CSS
   <br> -JAVASCRIPT
 
-<img src="https://github.com/MauroBielDaviPedro/Mario-Bross/blob/main/logo.png?raw=true">
+<img src="https://github.com/MauroBielDaviPedro/Mario-Bross/blob/main/logo.png?raw=true"> 
