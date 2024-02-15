@@ -4,8 +4,8 @@
 <h2>Projeto feito atras do curso programador do zero com Rodolfo Mori</h2>
 <br>
 <h1>Tecnologias Utilizadas</h1>
-  -HTML
-  -CSS
-  -JAVASCRIPT
+  <br></BR>-HTML
+  <br>-CSS
+  <br> -JAVASCRIPT
 
 <img src="https://github.com/MauroBielDaviPedro/Mario-Bross/blob/main/logo.png?raw=true">
